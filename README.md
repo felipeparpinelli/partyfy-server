@@ -12,7 +12,8 @@ Project to learn and improve my skills in:
   - `go get gopkg.in/mgo.v2` MongoDB driver for Go
   - `go get github.com/gorilla/mux` A powerful URL router and dispatcher for golang
   - `go get github.com/zmb3/spotify` wrapper for Spotify Web API
-  
+
+- Install mongoDB and run
 - Set Environment variables:
 `export SPOTIFY_ID="client_ID"`
 `export SPOTIFY_SECRET="secret_ID"`
@@ -29,6 +30,8 @@ Project to learn and improve my skills in:
 - Follow the instructions to run the frontend service: `https://github.com/felipeparpinelli/partyfy-client`
 
 * You can view the project up and running on [AWS](http://ec2-34-205-81-9.compute-1.amazonaws.com:8080)
+
+* You can create the database with a collection(party) automatically, just uncomment the line 19 in db.go and run the application.
 
 ## Future features (TODO List)
 
