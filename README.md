@@ -12,6 +12,11 @@ Project to learn and improve my skills in:
   - `go get gopkg.in/mgo.v2` MongoDB driver for Go
   - `go get github.com/gorilla/mux` A powerful URL router and dispatcher for golang
   - `go get github.com/zmb3/spotify` wrapper for Spotify Web API
+  
+- Set Environment variables:
+`export SPOTIFY_ID="client_ID"`
+`export SPOTIFY_SECRET="secret_ID"`
+  - https://developer.spotify.com/my-applications
 
 ## Tests
 - `cd controllers`
