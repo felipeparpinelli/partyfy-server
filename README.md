@@ -13,7 +13,7 @@ Project to learn and improve my skills in:
   - `go get github.com/gorilla/mux` A powerful URL router and dispatcher for golang
   - `go get github.com/zmb3/spotify` wrapper for Spotify Web API
 
-- Install mongoDB and run
+- Install and run mongoDB
 - Set Environment variables:
 `export SPOTIFY_ID="client_ID"`
 `export SPOTIFY_SECRET="secret_ID"`
